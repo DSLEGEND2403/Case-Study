@@ -1,0 +1,16 @@
+h1
+{
+font-weight: bolder; 
+color: white;   
+}
+img
+{
+height:400px;
+width:410px;
+}
+body{
+background-color: black;    
+}
+h5,h4,b{
+color: aliceblue;    
+}
